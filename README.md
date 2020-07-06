@@ -7,6 +7,6 @@ It uses the switch case to identify the input operator to perform required calcu
 Download or clone the repository and start the game by opening index.html page in your desired browser.
 
 ```sh
-$ git clone https://github.com/AAdewunmi/pig_game.git
-$ cd pig_game
+$ git clone https://github.com/AAdewunmi/SimpleCalculator.git
+$ cd SimpleCalculator
 ```
