@@ -10,3 +10,4 @@ Download or clone the repository and start the game by opening index.html page i
 $ git clone https://github.com/AAdewunmi/SimpleCalculator.git
 $ cd SimpleCalculator
 ```
+![Image of Console](src/Screenshot.png)
